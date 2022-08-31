@@ -1,5 +1,7 @@
 # Buy Me a Coffee DeFi dapp
 
+[**Live Site**](https://benevolent-halva-b1cfd5.netlify.app/)
+
 ![Screenshot 2022-08-30 162345](https://user-images.githubusercontent.com/79695976/187790565-1fddf516-2779-48ab-9d5e-6eac8ff40a78.png)
 
 Buy Me A Coffee is a popular website that creators, educators, entertainers, and all kinds of people use to create a landing page where anyone can send some amount of money as a thank you for their services. However, in order to use it, you must have a bank account and a credit card. Not everyone has that!
@@ -18,7 +20,7 @@ This project is a deployed(Goerli Testnet) decentralized "Buy Me a Coffee" smart
 
  You can target any network from your Hardhat config using: `npx hardhat run --network <your-network> scripts/deploy.js`
  
-__Congrats! You have compiled and deployed the smart contract.__
+***Congrats! You have compiled and deployed the smart contract.***
 
 ## Getting started with the frontend of the DeFi dapp
 
@@ -28,4 +30,4 @@ __Congrats! You have compiled and deployed the smart contract.__
 
 3. Run `yarn dev` or `npm run dev` to start the project locally.
 
-__Have Fun!__
+**Have Fun!**
